@@ -1,3 +1,5 @@
+# NOTE: The following content has been automatically generated during the website creation process. It will be revised/replaced as the GitHub website develops over time. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brianmallari/brian-mallari.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
