@@ -17,5 +17,7 @@ Cheers.
 
 4. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample4-VisualizingYelpDatawithggplot2.pdf">Visualizing Yelp Data with ggplot2</a>
 
+5. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample5-HowtoGuide-LondonBoroughData.pdf">How-to-Guide Presentation (London Borough Data)</a>
+
 # Contact Information
 Email: brian.mallari@gmail.com
