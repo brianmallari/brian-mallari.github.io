@@ -19,5 +19,7 @@ Cheers.
 
 5. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample5-HowtoGuide-LondonBoroughData.pdf">How-to-Guide Presentation (London Borough Data)</a>
 
+6. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample6-Presentation-ProjectManagementandCommunication.pdf">Presentation (Project Management and Communication)</a>
+
 # Contact Information
 Email: brian.mallari@gmail.com
