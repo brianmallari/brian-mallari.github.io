@@ -1,3 +1,5 @@
+![image](GitHub_Profile_Pic_Sacre_Coeur_Paris_cropped.jpg)
+
 # Greetings!
 ## And welcome to Brian Mallari's Data Science Website
 
