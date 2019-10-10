@@ -23,5 +23,7 @@ Cheers.
 
 6. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample6-Presentation-ProjectManagementandCommunication.pdf">Presentation (Project Management and Communication)</a>
 
+7. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample7-TeamProject-CommencementWeatherReport-MallariShahWong.pdf">Team Project - Commencement Weather Report (Mallari, Shah, Wong)</a>
+
 # Contact Information
 Email: brian.mallari@gmail.com
