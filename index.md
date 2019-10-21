@@ -15,7 +15,11 @@ Cheers.
 
 2. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample2-ClassifyingHand-WrittenNumberswithR.pdf">Classifying Hand-Written Numbers with R</a>
 
-3. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample3-VisualizingTertiaryEducationTrendsforDifferentDemographicsusingTableau.pdf">Visualizing Tertiary Education Trends for Different Demographics using Tableau</a>
+3. Visualizing Tertiary Education Trends for Different Demographics using Tableau
+
+    - <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample3a-VisualizingTertiaryEducationTrendsforDifferentDemographicsusingTableau-Part1.pdf">Part 1</a>
+
+    - <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample3b-VisualizingTertiaryEducationTrendsforDifferentDemographicsusingTableau-Part2.pdf">Part 2</a>
 
 4. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample4-VisualizingYelpDatawithggplot2.pdf">Visualizing Yelp Data with ggplot2</a>
 
