@@ -25,5 +25,7 @@ Cheers.
 
 7. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample7-TeamProject-CommencementWeatherReport-MallariShahWong.pdf">Team Project - Commencement Weather Report (Mallari, Shah, Wong)</a>
 
+8. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample8-NLPwithNaiveBayes.pdf">Spam Detection via Natural Language Processing (NLP) with Naive Bayes</a>
+
 # Contact Information
 Email: brian.mallari@gmail.com
