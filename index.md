@@ -36,5 +36,7 @@ Cheers.
 
 8. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample8-NLPwithNaiveBayes.pdf">Spam Detection via Natural Language Processing (NLP) with Naive Bayes</a>
 
+9. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample9-SentimentAnalysisUsingTwitterandPython.pdf">Senitment Analysis with Twitter and Python</a>
+
 # Contact Information
 Email: brian.mallari@gmail.com
