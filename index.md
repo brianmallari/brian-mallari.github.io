@@ -44,3 +44,4 @@ Cheers.
 
 # Contact Information
 Email: brian.mallari@gmail.com
+LinkedIn: https://www.linkedin.com/in/brian-mallari/
