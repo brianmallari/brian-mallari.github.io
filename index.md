@@ -45,4 +45,4 @@ Cheers.
 # Contact Information
 Email: brian.mallari@gmail.com
 <br>
-LinkedIn: https://www.linkedin.com/in/brian-mallari/
+LinkedIn: <a href="https://www.linkedin.com/in/brian-mallari/">https://www.linkedin.com/in/brian-mallari/</a>
