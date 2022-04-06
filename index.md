@@ -11,7 +11,8 @@ Cheers.
 # Personal Projects
 ## Click to view
 
-1. <a href = "https://github.com/brianmallari/Face-Detection-Project">Face Detection Project</a> - <a href = "https://github.com/brianmallari/Face-Detection-Project/blob/main/Face_Detection_README.pdf">README file</a>
+1. <a href = "https://github.com/brianmallari/Face-Detection-Project">Face Detection Project</a> 
+    - <a href = "https://github.com/brianmallari/Face-Detection-Project/blob/main/Face_Detection_README.pdf">README file</a>
 
 2. <a href = "https://github.com/brianmallari/Sentiment-Analysis-Project">Sentiment Analysis Project</a> 
     - <a href = "https://github.com/brianmallari/Sentiment-Analysis-Project/blob/main/Sentiment_Analysis_README_1st_Half_How_to_Run_Scripts.pdf">README file 1</a>
