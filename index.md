@@ -18,7 +18,7 @@ Cheers.
     - <a href = "https://github.com/brianmallari/Sentiment-Analysis-Project/blob/main/Sentiment_Analysis_README_1st_Half_How_to_Run_Scripts.pdf">README file 1</a>
     - <a href = "https://github.com/brianmallari/Sentiment-Analysis-Project/blob/main/Sentiment_Analysis_README_2nd_Half_Data_Analysis.pdf">README file 2</a>
 3. <a href = "https://github.com/brianmallari/Recommendation-System">Recommendation System Project</a> 
-    - <a href = "https://github.com/brianmallari/Recommendation-System/blob/main/Recommendation_System_Simple_README.pdf">README file 1</a>
+    - <a href = "https://github.com/brianmallari/Recommendation-System/blob/main/Recommendation_System_Simple_README.pdf">README file</a>
 
 # Some Graduate School Assignments
 ## Click to view
