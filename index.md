@@ -3,13 +3,22 @@
 # Greetings!
 ## And welcome to Brian Mallari's Data Science Website
 
-My name is Brian Mallari. I've acquired my master's degree in May 2019 from Rutgers University with a concentration in data science.
-This site is designed to showcase some of my work during my graduate program. However, as time progress I'll be uploading some more of my own content related to data science or machine learning. 
+My name is Brian Mallari. I had completed my master's program back in May 2019 from Rutgers University with a concentration in data science.
+This site is designed to showcase some of my work both during and after my graduate program. 
 
 Cheers.
 
 # Personal Projects
-## Click to view
+
+## Dashboards - Click to view
+
+1. UK National Rail (mock data)
+    - <a href = https://github.com/brianmallari/Data-Analytics-Samples/blob/main/UK_National_Rail_README>README</a>
+    - <a href = https://github.com/brianmallari/Data-Analytics-Samples/blob/main/Brian%20Mallari%20-%20Some%20Exploratory%20Analysis%20-%20UK%20Train%20Rides%20(MOCK%20DATA).xlsx>Microsoft Excel - Some Exploratory Analysis</a>
+    - <a href = https://github.com/brianmallari/Data-Analytics-Samples/blob/main/Brian%20Mallari%20-%20UK%20National%20Rail%20Exploratory%20Dashboard%20(Jan%202024%20-%20April%202024%3B%20MOCK%20DATA).xlsx>Microsoft Excel - Exploratory Dashbard</a>
+    - <a href = https://github.com/brianmallari/Data-Analytics-Samples/blob/main/Brian%20Mallari%20-%20UK%20National%20Rail%20Exploratory%20Dashboard%20-%20Power%20BI%20Desktop%20(Jan%202024%20-%20April%202024%3B%20MOCK%20DATA).pbix>Microsoft Power BI Desktop - Exploratory Dashboard</a>
+
+## Data Science/Machine Learning - Click to view
 
 1. <a href = "https://github.com/brianmallari/Face-Detection-Project">Face Detection Project</a> 
     - <a href = "https://github.com/brianmallari/Face-Detection-Project/blob/main/Face_Detection_README.pdf">README file</a>
