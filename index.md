@@ -24,7 +24,7 @@ Cheers.
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Some%20Exploratory%20Analysis%20-%20Patients%20-%20Excel%20(SYNTHETIC%20DATA).xlsx">Microsoft Excel - Some Exploratory Analysis - Patients</a>
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Some%20Exploratory%20Analysis%20-%20Payers%20-%20Excel%20(SYNTHETIC%20DATA).xlsx">Microsoft Excel - Some Exploratory Analysis - Payers</a>
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Some%20Exploratory%20Analysis%20-%20Procedures%20-%20Excel%20(SYNTHETIC%20DATA).xlsx">Microsoft Excel - Some Exploratory Analysis - Procedures</a>
-        - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Massachussets%20General%20Hospital%20Exploratory%20Dashboard%20-%20Power%20BI%20Desktop%20(SYNTHETIC%20DATA).pbix">Microsoft Power BI Desktop - Exploratory Dashboard</a>
+    - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Massachussets%20General%20Hospital%20Exploratory%20Dashboard%20-%20Power%20BI%20Desktop%20(SYNTHETIC%20DATA).pbix">Microsoft Power BI Desktop - Exploratory Dashboard</a>
 
 ## Data Science/Machine Learning - Click to view
 
