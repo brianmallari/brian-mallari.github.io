@@ -8,8 +8,14 @@ This site is designed to showcase some of my work both during and after my gradu
 
 Cheers.
 
-# Personal Projects
+# Guided Projects
+## Click to view
 
+1. <a href = "https://github.com/brianmallari/Data-Professional-Survey">Data Professional Survey</a> 
+
+2. <a href = "https://github.com/brianmallari/BIke-Sales">Bike Sales</a> 
+
+# Personal Projects
 ## Dashboards - Click to view
 
 1. UK National Rail (MOCK DATA)
