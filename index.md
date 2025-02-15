@@ -25,6 +25,7 @@ Cheers.
     - <a href = "https://github.com/brianmallari/UK-National-Rail-MOCK-DATA/blob/main/Brian%20Mallari%20-%20UK%20National%20Rail%20Exploratory%20Dashboard%20-%20Power%20BI%20Desktop%20(Jan%202024%20-%20April%202024%3B%20MOCK%20DATA).pbix">Microsoft Power BI Desktop - Exploratory Dashboard</a>
     - <a href = "https://github.com/brianmallari/UK-National-Rail-MOCK-DATA/blob/main/Brian%20Mallari%20-%20UK%20National%20Rail%20Exploratory%20Queries%20-%20Microsoft%20SQL%20Server%202019%20(Jan%202024%20-%20April%202024%3B%20MOCK%20DATA).pdf">Microsoft SQL Server 2019 - Exploratory Queries</a>
     - <a href = "https://github.com/brianmallari/UK-National-Rail-MOCK-DATA/blob/main/Brian%20Mallari%20-%20UK%20National%20Rail%20Exploratory%20Analysis%20-%20Python%20(pandas)%20(Jan%202024%20-%20April%202024%3B%20MOCK%20DATA).pdf">Python (pandas) - Exploratory Analysis</a>
+    
 2. Massachusetts General Hospital (SYNTHETIC DATA)
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Masschusetts_General_Hospital_README">README</a>
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Some%20Exploratory%20Analysis%20-%20Encounters%20-%20Excel%20(SYNTHETIC%20DATA).xlsx">Microsoft Excel - Some Exploratory Analysis - Encounters</a>
@@ -33,6 +34,9 @@ Cheers.
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Some%20Exploratory%20Analysis%20-%20Payers%20-%20Excel%20(SYNTHETIC%20DATA).xlsx">Microsoft Excel - Some Exploratory Analysis - Payers</a>
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Some%20Exploratory%20Analysis%20-%20Procedures%20-%20Excel%20(SYNTHETIC%20DATA).xlsx">Microsoft Excel - Some Exploratory Analysis - Procedures</a>
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Massachussets%20General%20Hospital%20Exploratory%20Dashboard%20-%20Power%20BI%20Desktop%20(SYNTHETIC%20DATA).pbix">Microsoft Power BI Desktop - Exploratory Dashboard</a>
+    - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Massachusetts%20General%20Hospital%20Exploratory%20Queries%20-%20Microsoft%20SQL%20Server%202022%20(SYNTHETIC%20DATA)%20-%20Version%202.0.pdf">Microsoft SQL Server 2022 - Exploratory Queries</a>
+    - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Massachusetts%20General%20Hospital%20Exploratory%20Analysis%20-%20Python%20(pandas)%20(SYNTHETIC%20DATA).pdf">Python (pandas) - Exploratory Analysis</a>
+    - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Massachusetts%20General%20Hospital%20Project%20-%20Some%20Observations%20(Version%202.0).pdf">Some Observations (Version 2.0)</a>
 
 ## Data Science/Machine Learning - Click to view
 
@@ -42,6 +46,7 @@ Cheers.
 2. <a href = "https://github.com/brianmallari/Sentiment-Analysis-Project">Sentiment Analysis Project</a> 
     - <a href = "https://github.com/brianmallari/Sentiment-Analysis-Project/blob/main/Sentiment_Analysis_README_1st_Half_How_to_Run_Scripts.pdf">README file 1</a>
     - <a href = "https://github.com/brianmallari/Sentiment-Analysis-Project/blob/main/Sentiment_Analysis_README_2nd_Half_Data_Analysis.pdf">README file 2</a>
+    
 3. <a href = "https://github.com/brianmallari/Recommendation-System">Recommendation System Project</a> 
     - <a href = "https://github.com/brianmallari/Recommendation-System/blob/main/Recommendation_System_Simple_README.pdf">README file</a>
 
