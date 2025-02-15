@@ -11,9 +11,9 @@ Cheers.
 # Guided Projects
 ## Click to view
 
-1. <a href = "https://github.com/brianmallari/Data-Professional-Survey">Data Professional Survey</a> 
+1. <a href = "https://github.com/brianmallari/Data-Professional-Survey">Data Professional Survey - Microsoft Power BI Desktop</a> 
 
-2. <a href = "https://github.com/brianmallari/BIke-Sales">Bike Sales</a> 
+2. <a href = "https://github.com/brianmallari/BIke-Sales">Bike Sales - Microsoft Excel</a> 
 
 # Personal Projects
 ## Dashboards - Click to view
