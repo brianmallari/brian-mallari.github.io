@@ -38,6 +38,10 @@ Cheers.
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Massachusetts%20General%20Hospital%20Exploratory%20Analysis%20-%20Python%20(pandas)%20(SYNTHETIC%20DATA).pdf">Python (pandas) - Exploratory Analysis</a>
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Massachusetts%20General%20Hospital%20Project%20-%20Some%20Observations%20(Version%202.0).pdf">Some Observations (Version 2.0)</a>
 
+3. Unicorn Companies
+    - <a href = "https://github.com/brianmallari/Unicorn-Companies/blob/main/Brian%20Mallari%20-%20Unicorn%20Companies%20Exploratory%20Queries%20-%20PostgreSQL%20-%20Version%202.pdf">PostgreSQL - Exploratory Queries</a>
+    - <a href = "https://github.com/brianmallari/Unicorn-Companies/blob/main/Brian%20Mallari%20-%20Unicorn%20Companies%20Exploratory%20Analysis%20-%20Python%20(pandas).pdf">Python (pandas) - Exploratory Analysis</a>
+
 ## Data Science/Machine Learning - Click to view
 
 1. <a href = "https://github.com/brianmallari/Face-Detection-Project">Face Detection Project</a> 
