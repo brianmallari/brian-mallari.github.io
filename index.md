@@ -32,7 +32,7 @@ Cheers.
     - <a href = "https://github.com/brianmallari/UK-National-Rail-MOCK-DATA/blob/main/Brian%20Mallari%20-%20UK%20National%20Rail%20Exploratory%20Analysis%20-%20Python%20(pandas)%20(Jan%202024%20-%20April%202024%3B%20MOCK%20DATA).pdf">Python (pandas) - Exploratory Analysis</a>
     
 2. Massachusetts General Hospital (SYNTHETIC DATA)
-    - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Masschusetts_General_Hospital_README">README</a>
+    - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/README.md">README</a>
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Some%20Exploratory%20Analysis%20-%20Encounters%20-%20Excel%20(SYNTHETIC%20DATA).xlsx">Microsoft Excel - Some Exploratory Analysis - Encounters</a>
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Some%20Exploratory%20Analysis%20-%20Organizations%20-%20Excel%20(SYNTHETIC%20DATA).xlsx">Microsoft Excel - Some Exploratory Analysis - Organizations</a>
     - <a href = "https://github.com/brianmallari/Massachusetts-General-Hospital-SYNTHETIC-DATA/blob/main/Brian%20Mallari%20-%20Some%20Exploratory%20Analysis%20-%20Patients%20-%20Excel%20(SYNTHETIC%20DATA).xlsx">Microsoft Excel - Some Exploratory Analysis - Patients</a>
