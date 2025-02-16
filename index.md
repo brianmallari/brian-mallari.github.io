@@ -13,12 +13,14 @@ Cheers.
 
 1. <a href = "https://github.com/brianmallari/Data-Professional-Survey">Data Professional Survey - Microsoft Power BI Desktop</a>
 2. US Household Income - MySQL
+    - <a href = "https://github.com/brianmallari/US-Household-Income/blob/main/README.md">README</a>
     - <a href = "https://github.com/brianmallari/US-Household-Income/blob/main/US%20Household%20Income%20Data%20Cleaning%20-%20Portfolio%20Version.pdf">Data Cleaning</a>
     - <a href = "https://github.com/brianmallari/US-Household-Income/blob/main/US%20Household%20Income%20Exploratory%20Data%20Analysis%20-%20Portfolio%20Version.pdf">Exploratory Data Analysis</a>
 3. World Life Expectancy - MySQL
+    - <a href = "https://github.com/brianmallari/World-Life-Expectancy/blob/main/README.md">README</a>
     - <a href = "https://github.com/brianmallari/World-Life-Expectancy/blob/main/World%20Life%20Expectancy%20Data%20Cleaning%20-%20Portfolio%20Version.pdf">Data Cleaning</a>
     - <a href = "https://github.com/brianmallari/World-Life-Expectancy/blob/main/World%20Life%20Expectancy%20Exploratory%20Data%20Analysis%20-%20Portfolio%20Version.pdf">Exploratory Data Analysis</a>
-4. <a href = "https://github.com/brianmallari/BIke-Sales">Bike Sales - Microsoft Excel</a> 
+5. <a href = "https://github.com/brianmallari/BIke-Sales">Bike Sales - Microsoft Excel</a> 
 
 # Personal Projects
 ## Dashboards - Click to view
