@@ -1,7 +1,7 @@
 ![image](GitHub_Profile_Pic_Sacre_Coeur_Paris_cropped.jpg)
 
 # Greetings!
-## And welcome to Brian Mallari's Data Science Website
+## And welcome to Brian Mallari's Data Projects Website
 
 My name is Brian Mallari. I had completed my master's program back in May 2019 from Rutgers University with a concentration in data science.
 This site is designed to showcase some of my work both during and after my graduate program. 
