@@ -22,9 +22,9 @@ Cheers.
     - <a href = "https://github.com/brianmallari/US-Household-Income/blob/main/US%20Household%20Income%20Exploratory%20Data%20Analysis%20-%20Portfolio%20Version.pdf">Exploratory Data Analysis</a>
 4. <a href = "https://github.com/brianmallari/Data-Professional-Survey">Data Professional Survey - Microsoft Power BI Desktop</a>
 5. <a href = "https://github.com/brianmallari/US-Debt">US Debt - Microsoft Excel</a>
-6. <a href = "https://github.com/brianmallari/BMI-Calculator/blob/main/Python%20Project%20for%20Beginners%20-%20BMI%20Calculator%20-%20Copy%20for%20Portfolio.ipynb">BMI Calculator - Python (Jupyter Notebook)</a>
-7. <a href = "https://github.com/brianmallari/Automated-File-Sorter/blob/main/Python%20Projects%20for%20Beginners%20-%20Automated%20File%20Sorter%20in%20File%20Explorer%20using%20Python%20-%20Copy%20for%20Portfolio.ipynb">Automated File Sorter - Python (Jupyter Notebook)</a>
-8. <a href = "https://github.com/brianmallari/Correlation-in-Python/blob/main/Correlation%20in%20Python%20-%20Copy%20for%20Portfolio.ipynb">Automated File Sorter - Python (Jupyter Notebook)</a>
+6. <a href = "https://github.com/brianmallari/BMI-Calculator/tree/main">BMI Calculator - Python (Jupyter Notebook)</a>
+7. <a href = "https://github.com/brianmallari/Automated-File-Sorter/tree/main">Automated File Sorter - Python (Jupyter Notebook)</a>
+8. <a href = "https://github.com/brianmallari/Correlation-in-Python/tree/main">Correlations - Python (Jupyter Notebook)</a>
 
 # Personal Projects
 ## Dashboards - Click to view
