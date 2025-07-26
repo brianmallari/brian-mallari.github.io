@@ -58,11 +58,9 @@ Cheers.
 
 1. <a href = "https://github.com/brianmallari/Face-Detection-Project">Face Detection Project</a> 
     - <a href = "https://github.com/brianmallari/Face-Detection-Project/blob/main/Face_Detection_README.pdf">README file</a>
-
 2. <a href = "https://github.com/brianmallari/Sentiment-Analysis-Project">Sentiment Analysis Project</a> 
     - <a href = "https://github.com/brianmallari/Sentiment-Analysis-Project/blob/main/Sentiment_Analysis_README_1st_Half_How_to_Run_Scripts.pdf">README file 1</a>
     - <a href = "https://github.com/brianmallari/Sentiment-Analysis-Project/blob/main/Sentiment_Analysis_README_2nd_Half_Data_Analysis.pdf">README file 2</a>
-    
 3. <a href = "https://github.com/brianmallari/Recommendation-System">Recommendation System Project</a> 
     - <a href = "https://github.com/brianmallari/Recommendation-System/blob/main/Recommendation_System_Simple_README.pdf">README file</a>
 
@@ -70,25 +68,15 @@ Cheers.
 ## Click to view
 
 1. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample1-ClassificationAndClusteringwithPython.pdf">Classification and Clustering with Python</a>
-
 2. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample2-ClassifyingHand-WrittenNumberswithR.pdf">Classifying Hand-Written Numbers with R</a>
-
 3. Visualizing Tertiary Education Trends for Different Demographics using Tableau
-
     - <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample3a-VisualizingTertiaryEducationTrendsforDifferentDemographicsusingTableau-Part1.pdf">Part 1</a>
-
     - <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample3b-VisualizingTertiaryEducationTrendsforDifferentDemographicsusingTableau-Part2.pdf">Part 2</a>
-
 4. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample4-VisualizingYelpDatawithggplot2.pdf">Visualizing Yelp Data with ggplot2</a>
-
 5. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample5-HowtoGuide-LondonBoroughData.pdf">How-to-Guide Presentation (London Borough Data)</a>
-
 6. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample6-Presentation-ProjectManagementandCommunication.pdf">Presentation (Project Management and Communication)</a>
-
 7. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample7-TeamProject-CommencementWeatherReport-MallariShahWong.pdf">Team Project - Commencement Weather Report (Mallari, Shah, Wong)</a>
-
 8. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample8-NLPwithNaiveBayes.pdf">Spam Detection via Natural Language Processing (NLP) with Naive Bayes</a>
-
 9. <a href="https://github.com/brianmallari/brian-mallari.github.io/blob/master/BrianMallari-Sample9-SentimentAnalysisUsingTwitterandPython.pdf">Senitment Analysis with Twitter and Python</a>
 
 # Contact Information
